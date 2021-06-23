@@ -6,3 +6,4 @@ function sayHi(){
 
 
 let result=sayHi()
+let result=SayHello()
